@@ -1,5 +1,4 @@
 
-
 public class Computer {
     
     // khai báo các thuộc tính của một computer
@@ -49,3 +48,4 @@ public class Computer {
 		return ten + " " + hangsx + " " + namsx + " " + chitiet + " " + price;
 	}
 }
+        

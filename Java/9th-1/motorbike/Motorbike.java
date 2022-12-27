@@ -42,6 +42,6 @@ public class Motorbike
 
     public void printMotorbike()
     {
-        System.out.println(id + " " + name + manu + " " + quantity + " " + price + " " + weight + " " + date);
+        System.out.println(id + " " + name + " " + manu + " " + quantity + " " + price + " " + weight + " " + date);
     }
 }
