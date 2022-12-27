@@ -1,0 +1,3 @@
+- Khi biên dịch: không xuất lỗi
+- Khi chạy: xuất lỗi: error: can't find main(String[]) method in class: Hello
+- Lý do: không khai báo cho mảng lưu trữ đối dòng lênh

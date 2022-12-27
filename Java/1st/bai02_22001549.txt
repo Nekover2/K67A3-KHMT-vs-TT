@@ -1,0 +1,11 @@
+1. error: ';' expected
+2. error: ')' or ',' expected
+	error: unclosed string literal
+3. error: unclosed string literal
+4. error: '{' expected
+	error: class, interface, enum, or record expected
+	error: class, interface, enum, or record expected
+5. error: '{' expected
+	error: class, interface, enum, or record expected
+6. error: reached end of file while parsing
+7. error: reached end of file while parsing

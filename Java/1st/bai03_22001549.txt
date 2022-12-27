@@ -1,0 +1,19 @@
+1. Khi chạy, xuất lỗi không tìm thấy hàm main, khi biên dịch không xuất lỗi
+	error: can't find main(String[]) method in class: Hello_World
+2. lỗi biên dịch:
+	error: cannot find symbol
+		public static void main(Sring[] args)
+								 ^
+3: Biên dịch xuất lỗi:
+	error: class Helo_World is public, should be declared in a file named Helo_World.java
+public class Helo_World 
+       ^
+	Khi chạy bình thường.
+4: Biên dịch xuất lỗi: 	
+	error: cannot find symbol
+                System.ou.println("Hello, world!");
+                      ^
+5. Biên dịch lỗi:
+	error: cannot find symbol
+                System.out.printl("Hello, world!");
+								 ^

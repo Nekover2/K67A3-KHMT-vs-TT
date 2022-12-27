@@ -1,0 +1,14 @@
+a) Khi chạy, xuất ngoại lệ (không được người dùng xử lý):
+    Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+        at LeapYear.main(LeapYear.java:3)
+b) Khi chạy, xuất ngoại lệ (không được người dùng xử lý):
+    Exception in thread "main" java.lang.NumberFormatException: For input string: "1975.5"
+        at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+        at java.base/java.lang.Integer.parseInt(Integer.java:665)
+        at java.base/java.lang.Integer.parseInt(Integer.java:781)
+        at LeapYear.main(LeapYear.java:3)
+
+c) Kết quả: true
+d) Kết quả: false
+
+(Chương trình được biên dịch bằng JDK 17)

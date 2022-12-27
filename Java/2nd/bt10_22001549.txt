@@ -1,0 +1,3 @@
+Chương trình không báo lỗi, nhưng kết quả ở đây sai, do may tính thực hiện lần lượt các phép tính không đúng như trình tự mình mong muốn.
+(Độ ưu tiên toán tử, Từ trái -> phải)
+vậy, phép tính trên thay vì tính r*r rồi chia, máy tính sẽ chia r và nhân với r (=1) => Kết quả sai.
