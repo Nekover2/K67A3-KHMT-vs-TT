@@ -1,2 +1,0 @@
-Câu lệnh trên không đúng, vì java sẽ thực hiện lệnh kiểm tra: 80 <= testGrade trước, rồi mới kiểm tra kết quả của phép tính trước đó 
-=> Kiểm tra kiểu Boolean và số => Bad arguments

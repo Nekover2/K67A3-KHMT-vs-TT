@@ -1,3 +1,0 @@
-Kết quả của câu lệnh đó sẽ trả về False
-dù trên lý thuyết (căn 2) mũ 2 =2, nhưng khi tính sqrt(2) sẽ dẫn đến sai số rất nhỏ => không đúng bằng 2
-

@@ -1,1 +1,0 @@
-câu lệnh trên kiểm tra a có bằng b hay ko, vì đây kiểm tra đồng thời 2 đk a > b và a < b

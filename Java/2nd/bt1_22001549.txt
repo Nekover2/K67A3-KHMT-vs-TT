@@ -1,5 +1,0 @@
-int t = a;
-a = b;
-b = t;
-
-Những câu lệnh trên dùng để hoán ổi giá trị của a và b cho nhau

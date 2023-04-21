@@ -1,4 +1,0 @@
-Lỗi biến chưa đc khởi tạo:
-
-.\test.java:4: error: variable x might not have been initialized
-        System.out.println(x);

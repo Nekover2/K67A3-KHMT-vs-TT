@@ -1,6 +1,0 @@
-1 Nguyen_Van_A  K59A2 ThaiBinh  4.5
-2 Nguyen_Van_B  K59A2 NamDinh   10
-3 Pham_Van_C    K60A3 HaNoi     3.5
-4 Le_Van_D      K59A3 ThanhHoa  8.5
-5 Nguyen_Van_E  K59A3 HaiPhong  9
-6 Le_Van_F      K59A2 ThaiBinh  10

@@ -1,9 +1,0 @@
-Chương trình thứ nhất không có lỗi, màn hình hiện ra số 3.14
-Chương trình 2 có lỗi về phạm vi của biến:
-
-.\test.java:7: error: cannot find symbol
-            System.out.println(r);
-                               ^
-  symbol:   variable r
-  location: class test
-1 error

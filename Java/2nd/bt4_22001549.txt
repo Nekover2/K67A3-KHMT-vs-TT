@@ -1,7 +1,0 @@
-Khi biến dịch, sẽ xuât hiện lỗi về kiểu dữ liệu của tham số truyền cho toán tử *:
-
-\test.java:3: error: bad operand types for binary operator '*'
-        int a = 27*"three";
-                  ^
-  first type:  int
-  second type: String

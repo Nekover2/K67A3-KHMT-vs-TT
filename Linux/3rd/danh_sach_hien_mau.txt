@@ -1,6 +1,0 @@
-1 Nguyen_Van_A 400 O
-2 Nguyen_Van_B 350 A
-3 Pham_Van_C 350 AB
-4 Le_Van_D 300 B
-5 Nguyen_Van_A 350 O
-6 Le_Van_D 350 B
