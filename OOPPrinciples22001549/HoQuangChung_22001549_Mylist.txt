@@ -1,0 +1,10 @@
+ArrayList test result: 
+Max: 10.0
+Min: 1.0
+Mean: 4.166666666666667
+Variance: 8.472222222222221
+ LinkedList test result: 
+Max: 10.0
+Min: 1.0
+Mean: 4.166666666666667
+Variance: 8.472222222222221

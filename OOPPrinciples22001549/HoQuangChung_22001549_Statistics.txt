@@ -1,0 +1,27 @@
+Statistic:0.0, 1.0, 2.0, 3.0, 4.0, 5.0, 3.0, 2.0, 0.0, 5.0]
+Max: 5.0
+Min: 0.0
+Mean: 2.5
+Variance: 3.05
+Rank: 4.0, 1.0, 4.5, 3.0, 7.0, 4.5
+Median: 2.5Array after removing: 1.0, 2.0, 3.0, 4.0, 5.0, 3.0, 2.0, 0.0]Statistic:1.0, 2.0, 3.0, 4.0, 5.0, 3.0, 2.0, 0.0]
+Max: 5.0
+Min: 0.0
+Mean: 2.5
+Variance: 2.25
+Rank: 1.0, 3.5, 3.0, 0.0, 4.0, 3.5
+Median: 2.5
+ List data test result: 
+Statistic:0.0, 1.0, 2.0, 3.0, 4.0, 5.0, 3.0, 2.0, 0.0, 5.0]
+Max: 5.0
+Min: 0.0
+Mean: 2.5
+Variance: 3.05
+Rank: 4.0, 1.0, 4.5, 3.0, 7.0, 4.5
+Median: 2.5List after removing: 1.0, 2.0, 3.0, 4.0, 5.0, 3.0, 2.0, 0.0]Statistic:1.0, 2.0, 3.0, 4.0, 5.0, 3.0, 2.0, 0.0]
+Max: 5.0
+Min: 0.0
+Mean: 2.5
+Variance: 2.25
+Rank: 1.0, 3.5, 3.0, 0.0, 4.0, 3.5
+Median: 2.5
